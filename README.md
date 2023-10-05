@@ -3,10 +3,10 @@ Hello there 👋,
 Onyango Omondi is a skilled Software Engineer and Security Analyst with experience in developing innovative solutions and ensuring digital security across leading organizations. A trusted tech professional in the industry.
 
 ## 🚀 About Me
-- 🔭 I'm currently working as a **Software Engineer** & **Security Analyst**, seamlessly merging medical science with technology.
-- 🌱 I'm passionate about leveraging **AI** to bridge the gap between biology and tech.
+- 🔭 I'm currently working as a **Software Engineer** & **Security Analyst**.
+- 🌱 I'm passionate about leveraging **AI**.
 - 🌎 I believe in using technology to bring the world closer together and work on projects that resonate with this belief.
-- 👯 I'm always open to collaborating on innovative projects that bring technology and biology together.
+- 👯 I'm always open to collaborating on innovative projects.
 
 ## 🎉 Fun Facts
 - 🧩 I can solve a Rubik's cube in under 2 minutes.
